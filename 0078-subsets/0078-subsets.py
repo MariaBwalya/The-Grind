@@ -8,15 +8,14 @@ class Solution:
                 res.append(subset.copy())
                 return
 
-            # decision to include nums[i]
+            #decision to include
             subset.append(nums[i])
-            dfs(i+1)  
+            dfs(i+1)
 
-            #decision NOT to include nums[i]
+
+            #decison NOT to include   
             subset.pop()
             dfs(i+1)
+
         dfs(0)
-        return res      
-
-
-        
+        return res     
