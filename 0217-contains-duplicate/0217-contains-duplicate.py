@@ -4,6 +4,5 @@ class Solution:
         for n in nums:
             if n in hashset:
                 return True
-            else:
-                hashset.add(n)
-        return False            
+            hashset.add(n)
+        return False        
