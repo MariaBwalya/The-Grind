@@ -10,12 +10,11 @@ class Solution:
 
             #decision to include
             subset.append(nums[i])
-            dfs(i+1)
+            dfs(i+1) 
 
-
-            #decison NOT to include   
+            #decision NOT to include
             subset.pop()
             dfs(i+1)
 
         dfs(0)
-        return res     
+        return res       
