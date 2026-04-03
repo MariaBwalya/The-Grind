@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/MariaBwalya/The-Grind/tree/main/0011-container-with-most-water/) | Medium |
+| [0125-valid-palindrome](https://github.com/MariaBwalya/The-Grind/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MariaBwalya/The-Grind/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -30,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/MariaBwalya/The-Grind/tree/main/0011-container-with-most-water/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/MariaBwalya/The-Grind/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
