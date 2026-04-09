@@ -47,8 +47,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MariaBwalya/The-Grind/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/MariaBwalya/The-Grind/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/MariaBwalya/The-Grind/tree/main/0155-min-stack/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/MariaBwalya/The-Grind/tree/main/0042-trapping-rain-water/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/MariaBwalya/The-Grind/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
